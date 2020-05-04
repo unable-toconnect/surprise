@@ -1,4 +1,6 @@
 
+hi this is my first work
+
 master branch added
 dev added
 lets see how much i am gaining from git
